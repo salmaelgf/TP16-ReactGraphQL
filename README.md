@@ -1,10 +1,4 @@
-# Démarrer avec Create React App
 
-Ce projet a été initialisé avec [Create React App](https://github.com/facebook/create-react-app).
-
-## Scripts disponibles
-
-Dans le répertoire du projet, vous pouvez exécuter :
 
 ### `npm start`
 
@@ -72,10 +66,4 @@ Cependant, vous pouvez l’utiliser pour personnaliser votre configuration lorsq
 
 [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Les captures d'écran
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c47d2034-7f90-4251-83bd-72b63d670e8f" />
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4921285-c8c6-4fd9-bbc9-48efa4c26944" />
-
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/626ad34a-d86d-451b-ab95-5d68af26db65" />
 
